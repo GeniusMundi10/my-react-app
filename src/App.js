@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import About from './About';
 import Contact from './Contact';
+import AnimatedComponent from './AnimatedComponent';  // <-- Import the animated component
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
           <Route path="/">
             <h1>Hello, World!</h1>
             <p>This is my React app hosted on GitHub Pages!</p>
+            <AnimatedComponent />  {/* <-- Add the animated component here */}
           </Route>
         </Switch>
       </div>
