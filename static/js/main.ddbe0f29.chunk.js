@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-react-app"]=this["webpackJsonpmy-react-app"]||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);c(1);var s=c(3),n=c.n(s),r=c(0);function i(){return Object(r.jsxs)("div",{children:[Object(r.jsx)("h1",{children:"Hello, World!"}),Object(r.jsx)("p",{children:"This is my React app hosted on GitHub Pages!"})]})}n.a.render(Object(r.jsx)(i,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.ddbe0f29.chunk.js.map
