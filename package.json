@@ -5,7 +5,8 @@
   "homepage": "https://GeniusMundi10.github.io/my-react-app",
   "dependencies": {
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
