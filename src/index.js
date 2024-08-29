@@ -1,13 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
 
-function App() {
-  return (
-    <div>
-      <h1>Hello, World!</h1>
-      <p>This is my React app hosted on GitHub Pages!</p>
-    </div>
-  );
-}
-
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
